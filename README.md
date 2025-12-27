@@ -37,6 +37,10 @@ This project focuses on core web development concepts like DOM manipulation, eve
 
 ---
 
+## 🚀 Where to Play
+
+Click Here :-https://codervishal7.github.io/Tic-Tac-Tae-Game/
+
 ## 📸 Screenshot (Optional)
 > <img width="607" height="608" alt="Screenshot 2025-12-28 002807" src="https://github.com/user-attachments/assets/12c1c732-95e1-421a-9c88-c2bdd0a947e5" />
 
