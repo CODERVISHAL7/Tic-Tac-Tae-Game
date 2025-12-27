@@ -38,8 +38,7 @@ This project focuses on core web development concepts like DOM manipulation, eve
 ---
 
 ## 📸 Screenshot (Optional)
-> *(Add a screenshot later if you want)*  
-Place an image inside project folder and link like this:
+> <img width="607" height="608" alt="Screenshot 2025-12-28 002807" src="https://github.com/user-attachments/assets/12c1c732-95e1-421a-9c88-c2bdd0a947e5" />
 
-```markdown
-![Game Screenshot](screenshot.png)
+<img width="550" height="607" alt="Screenshot 2025-12-28 002834" src="https://github.com/user-attachments/assets/8bca51b9-4f91-4093-a0d7-b77eedfc6837" />
+
